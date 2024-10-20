@@ -4,7 +4,7 @@ I'm a final year Computer Science student passionate about technology and innova
 
 ## 🛠️ Skills
 
-- **Languages**: JavaScript, Python, Java, C++
+- **Languages**: JavaScript, Python, C++
 - **Web Development**: HTML, CSS, JavaScript, React, Node.js, Express, MongoDB
 - **Machine Learning & Deep Learning**: TensorFlow, Keras, Scikit-Learn, Pandas, NumPy, seaborn 
 - **MLOps**: Docker, Kubernetes, CI/CD, AWS
